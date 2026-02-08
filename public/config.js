@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_NAME": "4CHAD",
   "VITE_APP_DESCRIPTION": "Solana token launchpad enabling anyone to create, trade, and monetize tokens with API-first architecture, dynamic bonding curves, and full AI agent automation support.",
   "VITE_HAS_PRIMARY_LOGO": "true",
-  "VITE_HAS_SECONDARY_LOGO": "false",
+  "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Leaderboard",
   "VITE_CUSTOM_MENUS": "Spot, https://4chad.xyz/swap; Create, https://4chad.xyz/create",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
